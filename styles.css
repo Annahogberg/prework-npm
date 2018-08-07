@@ -93,7 +93,7 @@ nav a{
 }
 
 .build{
-  background:url(/home/teodiaz/code/prework/NPM-Page/images/city-scape.svg); 
+  background:url("images/city-scape.svg"); 
   float:right;
   height:100%;
   width:100%;
@@ -180,7 +180,7 @@ padding-left:355px;
 /*_________________________________________*/
 
 .background-what-is{
-  background-image: url(/home/teodiaz/code/prework/NPM-Page/images/forklift.svg);
+  background-image: url("images/forklift.svg");
  height:550px;
  
 }
